@@ -5,7 +5,7 @@ Find out how many commendations you need to buy to reach Exalted with a faction 
 
 Usage:
 1. Select your current reputation level.
-2. Enter your current progress into that reputation level (e.g. 3182/6000 for friendly).
+2. Enter your current progress into that reputation level (e.g. 3182 if you're 3182/6000 into friendly).
 3. Enter the amount of reputation each commendation gives.
 4. Calculate.
 
